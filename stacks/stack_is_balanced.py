@@ -1,3 +1,7 @@
+'''
+Checking for Balanced Parentheses
+Stacks are widely used to check if parentheses (or other delimiters) in an expression are balanced.
+'''
 def is_balanced(expression):
     stack = []
     pairs = {')': '(', ']': '[', '}': '{'}
