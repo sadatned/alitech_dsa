@@ -1,5 +1,4 @@
- |___|a
-a# Stack Data Structure - Notes
+# Stack Data Structure - Notes
 
 ## 1. **Introduction to Stack**
 A **Stack** is a linear data structure that follows the **LIFO (Last In First Out)** principle. This means that the last element added to the stack will be the first one to be removed. Think of a stack of plates: you add plates to the top, and you remove plates from the top.
