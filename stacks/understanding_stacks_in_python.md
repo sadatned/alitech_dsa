@@ -7,12 +7,6 @@ A **stack** is a fundamental data structure in computer science that follows the
 ## Table of Contents
 
 - [Stack Data Structure - Notes](#stack-data-structure---notes)
-  - [1. **Introduction to Stack**](#1-introduction-to-stack)
-  - [2. **Basic Operations**](#2-basic-operations)
-  - [3. **Real-Life Examples**](#3-real-life-examples)
-  - [4. **Python Implementation Using List**](#4-python-implementation-using-list)
-  - [5. **Common Stack Use Cases**](#5-common-stack-use-cases)
-  - [6. **Stack in Real-World Applications**](#6-stack-in-real-world-applications)
   - [Stack Operations with Examples](#stack-operations-with-examples)
   - [1. **Push Operation**](#1-push-operation)
   - [2. **Push Multiple Elements**](#2-push-multiple-elements)
